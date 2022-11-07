@@ -37,7 +37,7 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <Label x:Name="Animal" HorizontalAlignment="Left" Grid.Row="1" Grid.Column="3" Grid.RowSpan="3" Grid.ColumnSpan="2" FontSize="30">Имя:</Label>
+        <Label x:Name="Animal" HorizontalAlignment="Left" Grid.Row="1" Grid.Column="3" Grid.RowSpan="3" Grid.ColumnSpan="6" FontSize="30">Имя:</Label>
         <Label x:Name="Name_1" HorizontalAlignment="Left" Grid.Row="3" Grid.Column="3" Grid.RowSpan="1" Grid.ColumnSpan="2" FontSize="15">Имя:</Label>
         <Label x:Name="Type" HorizontalAlignment="Left" Grid.Row="4" Grid.Column="3" Grid.RowSpan="1" Grid.ColumnSpan="2" FontSize="15">Вид:</Label>
         <Label x:Name="Breed" HorizontalAlignment="Left" Grid.Row="5" Grid.Column="3" Grid.RowSpan="1" Grid.ColumnSpan="2" FontSize="15">Порода:</Label>

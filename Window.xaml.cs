@@ -204,5 +204,12 @@ namespace Умный_питомец
             newForm.Show();
             this.Close();
         }
+
+        private void Edit_pet_Clik(object sender, RoutedEventArgs e)
+        {
+            Window_reg_pet newForm = new Window_reg_pet();
+            newForm.Show();
+            this.Close();
+        }
     }
 }

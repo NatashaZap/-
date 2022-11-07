@@ -367,7 +367,7 @@ namespace Умный_питомец {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на OK.
+        ///   Ищет локализованную строку, похожую на Save.
         /// </summary>
         internal static string OK {
             get {

@@ -220,7 +220,7 @@
     <value>Количество друзей:</value>
   </data>
   <data name="OK" xml:space="preserve">
-    <value>Зарегистрироваться</value>
+    <value>Сохранить</value>
   </data>
   <data name="Password" xml:space="preserve">
     <value>Пароль:</value>

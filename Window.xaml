@@ -118,7 +118,7 @@
                             </Button.ContentTemplate>
                         </Button>
                         <Button x:Name="Download" Grid.Row="11" Grid.Column="2" Grid.RowSpan="1" Grid.ColumnSpan="2">Загрузить фото</Button>
-                        <Button x:Name="Edit_pet" Grid.Row="11" Grid.Column="7" Grid.RowSpan="1" Grid.ColumnSpan="2">Редактировать</Button>
+                        <Button x:Name="Edit_pet" Grid.Row="11" Grid.Column="7" Grid.RowSpan="1" Grid.ColumnSpan="2" Click="Edit_pet_Clik">Редактировать</Button>
                         <Label x:Name="Id" HorizontalAlignment="Left" Grid.Row="1" Grid.Column="5" Grid.RowSpan="1" Grid.ColumnSpan="2" FontSize="15">ID:</Label>
                         <Label x:Name="Name_1" HorizontalAlignment="Left" Grid.Row="2" Grid.Column="5" Grid.RowSpan="1" Grid.ColumnSpan="2" FontSize="15">Имя:</Label>
                         <Label x:Name="Type" HorizontalAlignment="Left" Grid.Row="3" Grid.Column="5" Grid.RowSpan="1" Grid.ColumnSpan="2" FontSize="15">Вид:</Label>
